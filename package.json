@@ -14,23 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaronfagan/svg-credit-card-payment-icons.git"
+    "url": "git+https://github.com/jck-codes/credit-card-icons.git"
   },
   "keywords": [
     "svg",
     "icon"
   ],
-  "author": "Aaron Fagan",
-  "contributors": [
-    {
-      "author": "Robert Medeiros <robert@crimeminister.org>"
-    }
-  ],
+  "private": true,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/aaronfagan/svg-credit-card-payment-icons/issues"
-  },
-  "homepage": "https://github.com/aaronfagan/svg-credit-card-payment-icons#readme",
   "devDependencies": {
     "chai": "5.1.1",
     "css-loader": "7.1.2",
