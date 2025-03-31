@@ -2,11 +2,6 @@
 
 A collection of SVG based credit card logo and payment icons.
 
-Now available as a [Node/NPM Package](https://github.com/aaronfagan/svg-credit-card-payment-icons/pkgs/npm/ccicons)!
-
-## Usage
-Coming soon!
-
 ## Icons
 
 | Name                  | Flat                                                                                                       | Flat Rounded                                                                                                       | Logo                                                                                                       | Logo Border                                                                                                       | Mono                                                                                                       | Mono Outline                                                                                                       |
@@ -28,6 +23,3 @@ Coming soon!
 | Generic Card          | ![Generic Card](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/flat/generic.svg)     | ![Generic Card](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/flat-rounded/generic.svg)     | ![Generic Card](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/generic.svg)     | ![Generic Card](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo-border/generic.svg)     | ![Visa](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/mono/generic.svg)             | ![Visa](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/mono-outline/generic.svg)             |
 | Security Code         | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/flat/code.svg)       | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/flat-rounded/code.svg)       | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/code.svg)       | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo-border/code.svg)       | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/mono/code.svg)       | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/mono-outline/code.svg)       |
 | Security Code - Front | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/flat/code-front.svg) | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/flat-rounded/code-front.svg) | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/code-front.svg) | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo-border/code-front.svg) | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/mono/code-front.svg) | ![Security Code](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/mono-outline/code-front.svg) |
-
-## Additional Information
-- [Blog Article](https://www.aaronfagan.ca/blog/2017/svg-credit-card-payment-icons-6-styles-80-icons/)
